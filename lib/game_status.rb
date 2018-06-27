@@ -33,8 +33,7 @@ end
 end
 
 def winner(board)
-  token = won?(board)
-if token
+if token = won?(board)
   return board[token[0]]
 end
 end
