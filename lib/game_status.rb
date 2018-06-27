@@ -27,8 +27,6 @@ return true
    return false
 elsif won?(board) == true
   return false
-else
-  return true
 
 end
 end
