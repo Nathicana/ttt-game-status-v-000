@@ -24,7 +24,7 @@ end
     won?(board) == false && full?(board) 
 
 end
-end
+
 
 
 def over?(board)
